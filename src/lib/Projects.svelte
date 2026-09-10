@@ -117,7 +117,7 @@
                 "Focused on a minimal, professional design that puts the content and projects first.",
                 "Optimized the interface to provide a smooth and consistent user experience across devices."
             ],
-            link: "#"
+            link: "https://github.com/tetebe333/tetebe-jeffrey-portfolio"
         }
     ];
 
