@@ -89,7 +89,7 @@ let bio = "I’m a software engineer who enjoys building clean, functional web a
 </script>
 
 <!-- Main Wrapper with deep dark background -->
-<div id="hero" class="relative  px-6 lg:px-28 pt-20 w-full bg-[#0B0F19] text-zinc-100 overflow-x-hidden font-sans scrollbar-none">  
+<div id="hero" class="relative px-6 lg:px-28 pt-20 w-full bg-[#0B0F19] text-zinc-100 overflow-x-hidden overflow-y-auto font-sans">
   <!-- 🌟 LEFT TOP GLOW EFFECT -->
   <div class="absolute top-[-10%] left-[-10%] w-[50vw] h-[50vw] max-w-150 rounded-full bg-radial from-white/10 via-white/5 to-transparent blur-[80px] pointer-events-none z-0"></div>
 

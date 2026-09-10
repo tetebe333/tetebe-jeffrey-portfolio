@@ -1,19 +1,10 @@
 @import "tailwindcss";
 
-/* Target the base viewport window properties */
 html {
   scroll-behavior: smooth; 
   scroll-padding-top: 4rem; 
 }
 
-/* Maintain your previous scrollbar vanish parameters */
 html, body {
-  -ms-overflow-style: none;  
-  scrollbar-width: none;     
-  overflow-y: scroll;        
-}
-
-html::-webkit-scrollbar, 
-body::-webkit-scrollbar {
-  display: none;
+  overflow-y: auto;        
 }
