@@ -211,7 +211,7 @@ let bio = "I’m a software engineer who enjoys building clean, functional web a
         <Contact />
     </div>
 
-    <footer class="border-t border-neutral-200 dark:border-neutral-800 py-5 -mx-40" use:reveal>
+    <footer class="border-t border-neutral-200 dark:border-neutral-800 py-5 -mx-40">
         <div class="max-w-6xl mx-auto px-6 text-center text-sm text-neutral-500 dark:text-neutral-400">
             &copy; {new Date().getFullYear()} Tetebe Jeffrey. Built in Nigeria 
             <svg class="inline-block h-3 w-5 align-middle"
