@@ -17,6 +17,6 @@
         <p class="text-sm font-semibold text-gray-500">2024 - Present</p>
         <p class="text-2xl font-bold">Learning & Development</p>
         <p class="-mt-3 text-neutral-600 dark:text-neutral-400 leading-relaxed">Software Development</p>
-        <p class="text-neutral-600 dark:text-neutral-400 leading-relaxed">Started my programming journey with Techpace, where I built my foundation in software development and learned how to approach programming and problem-solving. Alongside structured learning and guidance, I continue to research, practice, and build projects independently to deepen my understanding.</p>
+        <p class="text-neutral-600 dark:text-neutral-400 leading-relaxed">Started my programming journey with Teqpace, where I built my foundation in software development and learned how to approach programming and problem-solving. Alongside structured learning and guidance, I continue to research, practice, and build projects independently to deepen my understanding.</p>
     </div>
 </div>
