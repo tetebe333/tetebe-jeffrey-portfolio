@@ -134,7 +134,7 @@
     </div>
 
     <div class="bg-neutral-50 dark:bg-[#121826] p-6 rounded-2xl border border-neutral-200 dark:border-neutral-800/60 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 dark:hover:bg-[#161d2e] dark:hover:border-neutral-700/80" style="opacity: 1; transform: none;">
-        <p class="text-xl font-semibold mb-6 text-neutral-800 dark:text-neutral-100 tracking-tight">FRONTEND</p>
+        <p class="text-xl font-semibold mb-6 text-neutral-800 dark:text-neutral-100 tracking-tight">TOOLS</p>
 
         <div class="p-4 ps-3">
             <div class="grid grid-cols-2 gap-x-2 gap-y-1">
