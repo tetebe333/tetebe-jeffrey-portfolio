@@ -28,6 +28,27 @@
             ],
             link: "https://zingram.vercel.app"
         },
+        {
+            title: "Cloudony | Weather Forecast Application",
+            image: "/cloudony.png",
+            tech: "Next.js • TypeScript • Tailwind CSS • Open-Meteo • Vercel",
+            btn: "Launch Live Site →",
+            features: [
+                "Built a modern weather application for checking current weather conditions and forecasts.",
+                "Integrated the Open-Meteo API to retrieve real-time weather data and forecasts.",
+                "Implemented device-based geolocation to display weather for the user's current location.",
+                "Built city search functionality to find weather information for locations around the world.",
+                "Implemented recent searches to make previously selected cities easy to access.",
+                "Added a popular cities section for quick access to frequently searched destinations.",
+                "Built a saved cities feature for keeping track of favorite locations.",
+                "Implemented a detailed weather view with current conditions, temperature, highs, lows, and a multi-day forecast.",
+                "Used Zustand for global state management and local storage persistence.",
+                "Designed a responsive interface with Tailwind CSS and reusable components.",
+                "Implemented reusable error handling with retry actions and location access options.",
+                "Built the application with Next.js App Router and TypeScript for a structured, maintainable codebase."
+            ],
+            link: "https://cloudony.vercel.app"
+        },
 
         {
             title: "Jeff Notes | Note-Keep web Application",
